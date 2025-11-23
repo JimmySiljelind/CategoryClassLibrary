@@ -8,5 +8,6 @@ C:\Users\obroc\Desktop\Interview\CategoryClassLibrary\obj\Debug\netstandard2.0\C
 C:\Users\obroc\Desktop\Interview\CategoryClassLibrary\obj\Debug\netstandard2.0\CategoryClassLibrary.AssemblyInfoInputs.cache
 C:\Users\obroc\Desktop\Interview\CategoryClassLibrary\obj\Debug\netstandard2.0\CategoryClassLibrary.AssemblyInfo.vb
 C:\Users\obroc\Desktop\Interview\CategoryClassLibrary\obj\Debug\netstandard2.0\CategoryClassLibrary.vbproj.CoreCompileInputs.cache
+C:\Users\obroc\Desktop\Interview\CategoryClassLibrary\obj\Debug\netstandard2.0\CategoryClassLibrary.sourcelink.json
 C:\Users\obroc\Desktop\Interview\CategoryClassLibrary\obj\Debug\netstandard2.0\CategoryClassLibrary.dll
 C:\Users\obroc\Desktop\Interview\CategoryClassLibrary\obj\Debug\netstandard2.0\CategoryClassLibrary.pdb

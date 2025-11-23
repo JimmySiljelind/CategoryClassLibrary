@@ -1,5 +1,3 @@
-Imports System.Collections.Generic
-
 Public NotInheritable Class CategoriesList
     Private Sub New()
     End Sub
