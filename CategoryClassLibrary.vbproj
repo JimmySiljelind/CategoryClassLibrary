@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>CategoryClassLibrary</RootNamespace>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <OptionCompare>Binary</OptionCompare>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <EnableDefaultEmbeddedResources>false</EnableDefaultEmbeddedResources>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="CategoriesList.vb" />
+  </ItemGroup>
+</Project>
