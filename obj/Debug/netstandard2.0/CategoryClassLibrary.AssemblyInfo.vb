@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("CategoryClassLibrary"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a54eaa0442bd5607179845cd34ad32713d43fbe2"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("CategoryClassLibrary"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("CategoryClassLibrary"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
