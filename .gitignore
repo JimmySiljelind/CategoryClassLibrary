@@ -1,2 +1,4 @@
-/bin
-/obj
+CategoryClassLibrary/obj/
+CategoryClassLibrary/obj/Debug/netstandard2.0/
+[Bb]in/
+[Oo]bj/
